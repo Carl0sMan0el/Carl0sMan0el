@@ -1,4 +1,4 @@
-Olá! Sou o Carlos Manoel, estudante de tecnologia.
+Olá! Sou o Carlos, estudante de tecnologia.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
